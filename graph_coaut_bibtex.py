@@ -3,7 +3,7 @@
 
 # Contact: jdmorise a t yahoo.com
 
-# Copyright (c) 2015-2016, Benjamin Laemmle
+# Copyright (c) 2015-2019
 # 
 
 #    This program is free software: you can redistribute it and/or modify
