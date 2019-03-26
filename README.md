@@ -3,6 +3,9 @@ Graph Display Software for Author Relationships with Bibtex Files
 (c) 2015-2019 JD Morise   
 jdmorise a t yahoo dot com   
 
+### introduction to funtionality on my Blog: 
+https://onmenwhostareongraphs.wordpress.com/2015/06/09/graph-display-software-for-author-relationships-with-bibtex-files/   
+https://onmenwhostareongraphs.wordpress.com/category/visualization-of-author-relationships/   
 
 ### Installation Requirements:    
 Python    
