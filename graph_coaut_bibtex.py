@@ -249,7 +249,7 @@ def main():
     parser.add_argument('-gp','--graph_programm', default = 'fdp', help="""Graph Programm for rendering the graph. one of the following: fdp,dot,sfdp,circo,twopi.""")  
 
     print("""A Graph Display Software for bibtex databases
-    Copyright (C) 2015 Benjamin Laemmle, jdmorise a t yahoo.com
+    Copyright (C) 2015 JD Morise, jdmorise a t yahoo.com
     
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
